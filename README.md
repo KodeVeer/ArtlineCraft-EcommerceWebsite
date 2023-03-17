@@ -4,4 +4,4 @@ This website was built using ChatGPT and photos link and some other changes were
 ### [Site is Live Here...](https://kodeveer.github.io/ArtlineCraft-EcommerceWebsite/)
 
 ## Website Image Preview
-![Artline Craft Website](/assets/artlineCraftWebsite.PNG)
+![Artline Craft Website](/images/artlineCraftWebsite.PNG)
